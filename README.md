@@ -26,6 +26,12 @@ Both the datasets are unbalanced with the diabetes dataset containing 65% non-di
 - `DecisionTree_FetalHealth.ipynb`: Jupyter notebook containing the code for Decision Tree experiment on Fetal Health dataset.
 - `ANN_Diabetes.ipynb`: Jupyter notebook containing the code for MLP Classifier experiment on Diabetes dataset.
 - `ANN_FetalHealth.ipynb`: Jupyter notebook containing the code for MLP Classifier experiment on Fetal Health dataset.
+- `Boosting_Diabetes.ipynb`: Jupyter notebook containing the code for Adaboost Classifier experiment on Diabetes dataset.
+- `Boosting_FHealth.ipynb`: Jupyter notebook containing the code for Adaboost Classifier experiment on Fetal Health dataset.
+- `SVM_Diabetes.ipynb`: Jupyter notebook containing the code for SVM Classifier experiment on Diabetes dataset.
+- `SVM_FHealth.ipynb`: Jupyter notebook containing the code for SVM Classifier experiment on Fetal Health dataset.
+- `KNN_Diabetes.ipynb`: Jupyter notebook containing the code for K-Nearest Neighbor experiment on Diabetes dataset.
+- `KNN_FetalHealth.ipynb`: Jupyter notebook containing the code for K-Nearest Neighbor experiment on Fetal Health dataset.
 - `diabetes.csv`: CSV file containing the raw diabetes data used in the experiments.
 - `fetal_health.csv`: CSV file containing the raw fetal_health data used in the experiments.
 - `README.md`: This file, containing information about the experiment.
